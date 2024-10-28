@@ -12,4 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Welcome to WBTek's GitHub!
+<h1 align="center">
+  Welcome to WBTek's GitHub!
+</h1>
+<p align="center">
+  https://wbtek.github.io
+</p>
