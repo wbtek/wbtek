@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Welcome to WBTek's GitHub!</h1>
-Visit <a href="https://wbtek.github.io">wbtek.github.io</a>
+WBTek GitHub Pages <a href="https://wbtek.github.io">wbtek.github.io</a>
+WBTek Homepage <a href="https://wbtek.net">wbtek.net</a>
