@@ -1,18 +1,12 @@
-<!--
-**wbtek/wbtek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Welcome to WBTek's GitHub!
 
-- [WBTek's GitHub.io Top Page](https://wbtek.github.io)
-- [WBTek's Homepage](https://wbtek.net)
+Explore WBTek’s projects and resources, designed to demonstrate our growing expertise in Rust, Yew, WebAssembly, crypto data, and more.
+
+## Quick Links
+
+- **[WBTek GitHub.io Top Page](https://wbtek.github.io)** – Visit our GitHub Pages site for project documentation and live demos.
+- **[WBTek Homepage](https://wbtek.net)** – Discover our full experience and diverse project portfolio.
+
+---
+
+Feel free to explore our repositories, and reach out if you have any questions about our work or potential collaborations!
