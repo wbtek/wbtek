@@ -11,7 +11,7 @@ Explore WBTek’s projects and resources, designed to demonstrate our growing ex
 > 
 > **Command:** > `DROP COINS`
 >
-> [ [⚡ DROP COINS, GET FRESH SOURCE](https://wbtek.net/pay/) ]
+> [ [⚡ DROP COINS, GET FRESH SOURCE](https://wbtek.net/tipjar) ]
 </br>
 
 - **[WBTek GitHub.io Top Page](https://wbtek.github.io)** – Visit our GitHub Pages site for project documentation and live demos.
